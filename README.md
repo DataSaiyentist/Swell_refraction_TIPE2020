@@ -24,4 +24,4 @@ logiciels et exercices corrigés - </br> *Editions Ellipses* p.7-14/ p.24-27
 ## License
 
 Copyright © 2021 [Data Saiyentist](https://github.com/DataSaiyentist). <br />
-This project is [MIT](https://github.com/DataSaiyentist/Swell_refraction_TIPE2020/blob/5a4e99512d611a30881f94f798351d83be36cb97/LICENSE) licensed.
+This project is [GNU General Public License v3.0](https://github.com/DataSaiyentist/Swell_refraction_TIPE2020/blob/f12595caa9a7aadc65bf1b87307ccaea1346db62/LICENSE) licensed.
