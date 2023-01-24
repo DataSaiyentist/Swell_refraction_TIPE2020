@@ -2,9 +2,7 @@
 
 ## Presentation
 
-Beginning of my TIPE (Project written in Python & prepared for the National Entrance Exams leading to French Engineering Schools): 
-</br>
-Graphic modeling of the Airy Theory
+Beginning of my TIPE (Project written in Python & prepared for the National Entrance Exams leading to French Engineering Schools): Graphic modeling of the Airy Theory
 
 I didn't have the time to completely finish my TIPE...
 </br>
