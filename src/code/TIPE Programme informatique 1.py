@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 """Paramétrage"""
 a=0.5
 L=20
@@ -36,9 +37,3 @@ plt.xlim(-3.5,3.5)
 plt.title("Déplacement des particules en eau profonde")
 plt.legend()
 plt.show()
-
-
-
-
-
-
