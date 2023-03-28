@@ -3,7 +3,9 @@ import matplotlib.pyplot as plt
 
 axes=plt.gca()
 
+
 # Question 9
+
 # v0=a*w
 # z=0
 # U_1=[]
@@ -21,9 +23,11 @@ axes=plt.gca()
 # plt.title("champ de vitesse")
 # plt.show()
 
+
 # Question 13
 
 """Paramétrages"""
+
 L=20
 c=np.sqrt((9.81*L)/(2*np.pi))  #A démontrer
 k=2*np.pi/L
@@ -83,6 +87,7 @@ a_4=6
 # plt.show()
 
 """AN"""
+
 # np.exp(2*np.pi)
 # Out[3]: 535.49165552476461
 # 
@@ -94,6 +99,7 @@ a_4=6
 # 
 # c
 # Out[9]: 5.5880407867722184
+
 
 # Question 23
 
