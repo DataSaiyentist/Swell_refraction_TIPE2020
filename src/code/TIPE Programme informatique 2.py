@@ -1,7 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 """Paramétrage"""
+
 L=20
 c=np.sqrt((9.81*L)/(2*np.pi))
 k=2*np.pi/L
@@ -21,6 +23,7 @@ X=[[a_1,[],[]],[a_2,[],[]],[a_3,[],[]],[ac,[],[]],[a_4,[],[]]]
 Z=[[[],[]],[[],[]],[[],[]],[[],[]],[[],[]]]
 
 """Profil de la houle pour diverses amplitudes et aux instants t=0 et t=pi/(2w)"""
+
 for i in x:
     A=np.sin(k*i-w*t_1)
     B=np.cos(k*i-w*t_1)
@@ -58,15 +61,3 @@ plt.title("Surface libre à l'instant pour H infini à l'instant t=pi/(2w)")
 plt.legend()
 
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
