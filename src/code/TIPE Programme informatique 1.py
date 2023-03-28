@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 
 """Paramétrage"""
+
 a=0.5
 L=20
 c=np.sqrt((9.81*L)/(2*np.pi))
