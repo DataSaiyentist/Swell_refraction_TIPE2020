@@ -22,6 +22,7 @@ x=np.arange(-10,60,1)
 X=[[a_1,[],[]],[a_2,[],[]],[a_3,[],[]],[ac,[],[]],[a_4,[],[]]]
 Z=[[[],[]],[[],[]],[[],[]],[[],[]],[[],[]]]
 
+
 """Profil de la houle pour diverses amplitudes et aux instants t=0 et t=pi/(2w)"""
 
 for i in x:
