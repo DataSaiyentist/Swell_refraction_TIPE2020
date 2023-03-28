@@ -1,7 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-"""Paramétrage"""    
+
+"""Paramétrage"""
+
 x_3=np.arange(-15,15,1)
 z0=0
 z1=-0.25
@@ -16,6 +18,7 @@ U=[[z0,[]],[z1,[]],[z2,[]],[z3,[]],[z4,[]]]
 W=[[],[],[],[],[]]
 
 """Déplacement des particules en eau peu profonde"""
+
 def ch(x):
     return (np.exp(x)+np.exp(-x))/2
     
@@ -41,7 +44,3 @@ plt.plot(U[4][1],W[4], label="z=-1m")
 plt.title("Déplacement des particules en eau peu profonde à t=0s, H=1m")
 plt.legend()
 plt.show()
-
-
-
-
