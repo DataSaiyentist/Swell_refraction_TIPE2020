@@ -12,10 +12,10 @@ After my graduation from ENSIIE, I would like to tackle the main subject which i
 
 - **George Bidell AIRY**: Tides and waves - *J. J. Griffin*
 - **François MARIN** : Hydrodynamique marine: La houle, les fonds marins et le littoral - Cours,
-logiciels et exercices corrigés - </br> *Editions Ellipses* p.7-14/ p.24-27
+logiciels et exercices corrigés - *Editions Ellipses* p.7-14/ p.24-27
 - [**Jean-Pierre SARMANT** : Exercices et problèmes de mécanique: 2ème année MP, PC, PSI, PT -
-*Edition Lavoisier/ Tec&Doc Collection de Sciences-Physiques* p.104-106](https://github.com/DataSaiyentist/Swell_refraction_TIPE2020/tree/main/docs/references/Subject%20taken%20from%20Jean-Pierre%20SARMANT%20Exercices%20et%20probl%C3%A8mes%20de%20m%C3%A9canique_2%C3%A8me%20ann%C3%A9e)
-- [**Olivier THUAL** : Hydrodynamique de l'environnement - *Les éditions de l'école Polytechnique* Slides & lessons](https://github.com/DataSaiyentist/Swell_refraction_TIPE2020/tree/main/docs/references/HYDRODYNAMIQUE%20DE%20L%E2%80%99ENVIRONNEMENT%2C%20O.%20THUAL%20la%20houle)
+*Edition Lavoisier/ Tec&Doc Collection de Sciences-Physiques* p.104-106](https://github.com/DataSaiyentist/Swell_refraction_TIPE2020/tree/main/docs/references/sarmant)
+- [**Olivier THUAL** : Hydrodynamique de l'environnement - *Les éditions de l'école Polytechnique* Slides & lessons](https://github.com/DataSaiyentist/Swell_refraction_TIPE2020/tree/main/docs/references/thual)
 
 ## License
 
