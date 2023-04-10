@@ -6,7 +6,7 @@ This is the beginning of my TIPE (project written in Python & prepared for the N
 
 I didn't have the time to completely finish my TIPE...
 </br>
-So after my graduation from ENSIIE, I would like to tackle the main subject which is **swell refraction** !
+So after my graduation from ENSIIE, I would like to tackle the main subject which is **swell refraction**.
 
 ## References
 
