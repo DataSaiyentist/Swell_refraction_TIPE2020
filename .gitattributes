@@ -1,2 +1,2 @@
-* linguist-vendored
-*.py linguist-vendored=false
+docs/references/Houle_files/** linguist-vendored
+docs/references/Houle.html -linguist-vendored
