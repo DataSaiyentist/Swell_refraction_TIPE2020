@@ -2,11 +2,11 @@
 
 ## Presentation
 
-Beginning of my TIPE (Project written in Python & prepared for the National Entrance Exams leading to French Engineering Schools): Graphic modeling of the Airy Theory
+This is the beginning of my TIPE (project written in Python & prepared for the National Entrance Exams leading to French Engineering Schools). I modeled the swell at the sea surface using the Airy theory.
 
 I didn't have the time to completely finish my TIPE...
 </br>
-After my graduation from ENSIIE, I would like to tackle the main subject which is **swell refraction** !
+So after my graduation from ENSIIE, I would like to tackle the main subject which is **swell refraction** !
 
 ## References
 
