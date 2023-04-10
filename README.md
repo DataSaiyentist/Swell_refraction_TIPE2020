@@ -1,6 +1,4 @@
-# TIPE 2020-2021: Swell Refraction
-
-## Presentation
+# Swell Refraction (TIPE 2019/2020)
 
 This is the beginning of my TIPE (project written in Python & prepared for the National Entrance Exams leading to French Engineering Schools). I modeled the swell at the sea surface using the Airy theory.
 
@@ -19,5 +17,5 @@ logiciels et exercices corrigés - *Editions Ellipses* p.7-14/ p.24-27
 
 ## License
 
-Copyright © 2021 [Data Saiyentist](https://github.com/DataSaiyentist). <br />
+Copyright © 2020 [Data Saiyentist](https://github.com/DataSaiyentist). <br />
 This project is [GNU General Public License v3.0](https://github.com/DataSaiyentist/Swell_refraction_TIPE2020/blob/main/LICENSE) licensed.
